@@ -9966,8 +9966,8 @@
 瓭       u74ed   dǎn     da3n    dan3    dan     
 瓮       u74ee   wèng    we4ng   weng4   weng    
 瓯       u74ef   ōu      o1u     ou1     ou      
-瓰       u74f0   瓰       瓰       瓰       瓰       
-瓱       u74f1   瓱       瓱       瓱       瓱       
+瓰       u74f0   fēnwǎ   fe1nwa3 fenwa13 fenwa       
+瓱       u74f1   maowa   ma2owa3 maowa23 maowa      
 瓲       u74f2   wa      wa      wa      wa      
 瓳       u74f3   hú      hu2     hu2     hu      
 瓴       u74f4   líng    li2ng   ling2   ling    
@@ -9978,7 +9978,7 @@
 瓹       u74f9   juān    jua1n   juan1   juan    
 瓺       u74fa   cháng   cha2ng  chang2  chang   
 瓻       u74fb   chī     chi1    chi1    chi     
-瓼       u74fc   瓼       瓼       瓼       瓼       
+瓼       u74fc   lǐwǎ    li3wa3  liwa33  liwa       
 瓽       u74fd   dàng    da4ng   dang4   dang    
 瓾       u74fe   měng    me3ng   meng3   meng    
 瓿       u74ff   bù      bu4     bu4     bu      

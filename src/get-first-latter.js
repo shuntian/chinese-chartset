@@ -34,6 +34,9 @@ for (let i = 0; i < rst1.length; i++) {
     arrResult.push(str);
   }
 }
+arrResult = arrResult.map(item => `|${item}|`);
+arrResult.unshift('|-|');
+arrResult.unshift('|首字母列表|');
 
 const arrRelatePath = IS_DEBUG ? './rst_first_latter_arr.md' : '../docs/03_中文首字母.md';
 const arrExportPath = path.resolve(__dirname, arrRelatePath);
