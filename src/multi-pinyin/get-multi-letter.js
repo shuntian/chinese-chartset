@@ -47,6 +47,6 @@ const values = filterResult.reduce((result, current) => {
   return result;
 }, {});
 
-const relatePath =  IS_DEBUG ? './rst-multi-letters.json' : '../../docs/05_多音字unicode.md';
+const relatePath =  IS_DEBUG ? './rst-multi-letters.json' : '../../docs/05_多音字unicode.json';
 const rstFilePath = path.resolve(__dirname, relatePath);
 fs.writeFileSync(rstFilePath, JSON.stringify(values, null, 2), 'utf-8');
