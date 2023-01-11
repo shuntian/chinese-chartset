@@ -11,9 +11,9 @@
 
 [中文拼音](docs/01_中文拼音.md)
 
-## 中文字符
+## 中文unicode
 
-[中文字符](docs/02_中文unicode.md)
+[中文unicode](docs/02_中文unicode.md)
 
 ## unicode 编码顺序表对应中文字符首字母顺序表
 
